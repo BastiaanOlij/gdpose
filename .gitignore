@@ -1,0 +1,5 @@
+.import/
+*.dblite
+*.TMP
+logs
+Thumbs.db
